@@ -2,6 +2,8 @@
  body{
     background-color: black;
 	background-size: cover; 
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Instrument Serif', serif;
 } 
 /*nav bar*/
 nav {
@@ -41,21 +43,23 @@ h1{
     font-size: 20px;
 }
 h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Instrument Serif', serif;;
     font-size: 18px;
     color: #f5e7e0;
 }
 h3 {
-    font-family: cursive;
+    font-family: 'Press Start 2P', cursive;
     font-size: 20px;
     color: #f5e7e0;
 }
 h4{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Instrument Serif', serif;;
     font-size: 16px;
 }
 p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: 15px;
     line-height: 1.5;
     color: #f5e7e0;
@@ -76,7 +80,7 @@ p{
     height: auto;
 }
 .block p{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: medium;
     font-weight: 500;
     line-height: 2;
@@ -93,6 +97,7 @@ p{
 }
 th, td {
     text-align: left;
+    font-family: 'EB Garamond', serif;
     padding: 8px;
     border-bottom: 1px solid;
 }
@@ -100,13 +105,14 @@ th {
     background-color: #817570;
 }
 .ints li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: 15px;
     color: #f5e7e0;
     list-style-type: square;
 }
 a{
     color: #f5e7e0;
+    font-family: 'EB Garamond', serif;
     font-family: inherit;
 }
 a:hover{
@@ -159,27 +165,27 @@ form {
   }
 /*projects page*/
 .box {
-    width: 800px;
+    width: 90%;
     height: 200px;
     align-items: center;
     margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    background-color: #817570;
+    background-color: #474341;
     border-style: groove;
     border-radius: 20px;
     color: #ddd;
   }
   .box p{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: 14px;
   }
 /*foot*/
 footer{
     background-color: #817570;
     color: #f5e7e0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-weight: 500;
     width: 100%;
     position: relative;
